@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 # 定义 UUID 及伪装路径、哪吒面板参数，请自行修改. (注意:伪装路径以 / 符号开始,为避免不必要的麻烦,请不要使用特殊符号.)
-UUID='92453d28-36f0-46c5-8088-d02e73bb95c5'
-VMESS_WSPATH='/92453d28-36f0-46c5-8088-d02e73bb95c5-vmess'
-VLESS_WSPATH='/92453d28-36f0-46c5-8088-d02e73bb95c5-vless'
-TROJAN_WSPATH='/92453d28-36f0-46c5-8088-d02e73bb95c5-trojan'
-SS_WSPATH='/92453d28-36f0-46c5-8088-d02e73bb95c5-ss'
+UUID='8d6138f9-3b6d-4ab8-b913-98fbcc7cb6e9'
+VMESS_WSPATH='/8d6138f9-3b6d-4ab8-b913-98fbcc7cb6e9-vmess'
+VLESS_WSPATH='/8d6138f9-3b6d-4ab8-b913-98fbcc7cb6e9-vless'
+TROJAN_WSPATH='/8d6138f9-3b6d-4ab8-b913-98fbcc7cb6e9-trojan'
+SS_WSPATH='/8d6138f9-3b6d-4ab8-b913-98fbcc7cb6e9-ss'
 NEZHA_SERVER=''
 NEZHA_PORT=''
 NEZHA_KEY=''
